@@ -4,7 +4,7 @@ This project is a Smart Mirror system developed using the MagicMirror² framewor
 This project focuses on lifestyle assistance and information display.
 
 ## Smart Mirror Working
-
+https://github.com/user-attachments/assets/dd65ad0f-91af-4993-9040-b41d4e028013
 
 ## Features Implemented
 - Calendar and important dates display
